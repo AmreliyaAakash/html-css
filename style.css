@@ -235,7 +235,7 @@ header li:nth-child(5):hover .dropdown {
 /* ======== main ======== */
 main .container {
   background: linear-gradient(rgba(15, 23, 43, 0.9), rgba(15, 23, 43, 0.9)),
-    url(../image/bg-hero.jpg);
+    url(./img/bg-hero.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
